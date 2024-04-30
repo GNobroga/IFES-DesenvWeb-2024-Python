@@ -1,0 +1,4 @@
+fastapi 
+requests
+bcrypt
+jinja2
